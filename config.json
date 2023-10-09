@@ -1,0 +1,158 @@
+{
+    "questions": [
+        {
+            "question": "¿Qué significa CSS?",
+            "available_responses": [
+                {"letter": "A", "response": "Cascading Style Sheets"},
+                {"letter": "B", "response": "Computer Style Sheets"},
+                {"letter": "C", "response": "Creative Style Sheets"}
+            ],
+            "correct": "A"
+        },
+        {
+            "question": "¿Cuál es la propiedad CSS para cambiar el color del texto?",
+            "available_responses": [
+                {"letter": "A", "response": "color"},
+                {"letter": "B", "response": "background-color"},
+                {"letter": "C", "response": "text-color"}
+            ],
+            "correct": "A"
+        },
+        {
+            "question": "¿Qué selector CSS se utiliza para seleccionar elementos con una clase específica?",
+            "available_responses": [
+                {"letter": "A", "response": "class"},
+                {"letter": "B", "response": "id"},
+                {"letter": "C", "response": "element"},
+                {"letter": "D", "response": "tag"}
+            ],
+            "correct": "A"
+        },
+        {
+            "question": "¿Cuál es la sintaxis correcta para aplicar un comentario en CSS?",
+            "available_responses": [
+                {"letter": "A", "response": "// Este es un comentario"},
+                {"letter": "B", "response": "/* Este es un comentario */"},
+                {"letter": "C", "response": "# Este es un comentario"}
+            ],
+            "correct": "B"
+        },
+        {
+            "question": "¿Qué propiedad CSS se utiliza para establecer el espaciado entre letras?",
+            "available_responses": [
+                {"letter": "A", "response": "line-height"},
+                {"letter": "B", "response": "letter-spacing"},
+                {"letter": "C", "response": "word-spacing"}
+            ],
+            "correct": "B"
+        },
+        {
+            "question": "¿Cuál es la propiedad CSS que se utiliza para establecer la imagen de fondo de un elemento?",
+            "available_responses": [
+                {"letter": "A", "response": "background-image"},
+                {"letter": "B", "response": "image-source"},
+                {"letter": "C", "response": "background-url"}
+            ],
+            "correct": "A"
+        },
+        {
+            "question": "¿Qué valor se utiliza en CSS para ocultar un elemento sin eliminarlo del flujo del documento?",
+            "available_responses": [
+                {"letter": "A", "response": "hidden"},
+                {"letter": "B", "response": "display: none"},
+                {"letter": "C", "response": "opacity: 0"}
+            ],
+            "correct": "B"
+        },
+        {
+            "question": "¿Cuál es la forma correcta de centrar un elemento horizontalmente en CSS?",
+            "available_responses": [
+                {"letter": "A", "response": "text-align: center"},
+                {"letter": "B", "response": "margin: auto"},
+                {"letter": "C", "response": "justify-content: center"}
+            ],
+            "correct": "B"
+        },
+        {
+            "question": "¿Cuál es la propiedad CSS que se utiliza para aplicar un efecto de sombra a un elemento?",
+            "available_responses": [
+                {"letter": "A", "response": "box-shadow"},
+                {"letter": "B", "response": "text-shadow"},
+                {"letter": "C", "response": "shadow-effect"}
+            ],
+            "correct": "A"
+        },
+        {
+            "question": "¿Cuál es la unidad de medida más comúnmente utilizada en CSS para dimensiones relativas?",
+            "available_responses": [
+                {"letter": "A", "response": "px"},
+                {"letter": "B", "response": "em"},
+                {"letter": "C", "response": "%"}
+            ],
+            "correct": "B"
+        },
+        {
+            "question": "¿Cuál es la propiedad CSS que se utiliza para establecer el tipo de fuente?",
+            "available_responses": [
+                {"letter": "A", "response": "font-type"},
+                {"letter": "B", "response": "font-family"},
+                {"letter": "C", "response": "font-style"}
+            ],
+            "correct": "B"
+        },
+        {
+            "question": "¿Cuál es la propiedad CSS que se utiliza para cambiar el tamaño de un elemento en relación con su tamaño original?",
+            "available_responses": [
+                {"letter": "A", "response": "transform: scale()"},
+                {"letter": "B", "response": "resize: scale()"},
+                {"letter": "C", "response": "size: change()"}
+            ],
+            "correct": "A"
+        },
+        {
+            "question": "¿Qué selector CSS se utiliza para seleccionar todos los elementos?",
+            "available_responses": [
+                {"letter": "A", "response": "all"},
+                {"letter": "B", "response": "every"},
+                {"letter": "C", "response": "*"}
+            ],
+            "correct": "C"
+        },
+        {
+            "question": "¿Cuál es la propiedad CSS que se utiliza para establecer el grosor del borde de un elemento?",
+            "available_responses": [
+                {"letter": "A", "response": "border-thickness"},
+                {"letter": "B", "response": "border-width"},
+                {"letter": "C", "response": "border-size"}
+            ],
+            "correct": "B"
+        },
+        {
+            "question": "¿Qué significa la sigla 'RGB' en CSS?",
+            "available_responses": [
+                {"letter": "A", "response": "Red, Green, Blue"},
+                {"letter": "B", "response": "Responsive Grid Box"},
+                {"letter": "C", "response": "Read, Get, Browse"}
+            ],
+            "correct": "A"
+        },
+        {
+            "question": "¿Cuál es la propiedad CSS que se utiliza para alinear el contenido de un elemento en el centro verticalmente?",
+            "available_responses": [
+                {"letter": "A", "response": "vertical-align"},
+                {"letter": "B", "response": "text-align"},
+                {"letter": "C", "response": "center-align"}
+            ],
+            "correct": "A"
+        },
+        {
+            "question": "¿Cuál es la propiedad CSS que se utiliza para establecer el margen exterior de un elemento?",
+            "available_responses": [
+                {"letter": "A", "response": "padding"},
+                {"letter": "B", "response": "margin"},
+                {"letter": "C", "response": "spacing"}
+            ],
+            "correct": "B"
+        }
+    ]
+}
